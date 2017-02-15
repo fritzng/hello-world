@@ -4,4 +4,5 @@
 `printf("Hello world!");`
 
 > Code the others 
-> Bad code
+> Bad codes
+> Good codes
